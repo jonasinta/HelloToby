@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="addressess">
+        <item>wompusi@gmail.com</item>
+        <item>stefelise@gmail.com</item>
+
+    </string-array>
+</resources>
